@@ -2,3 +2,6 @@ this is test branch
 
 测试merge 冲突 ——----------
 test BBBBB
+
+在main分支增加内容，测试rebase功能
+********************************
